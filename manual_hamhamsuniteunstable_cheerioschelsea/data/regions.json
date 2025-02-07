@@ -1,0 +1,16 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+	"Clubhouse": {"starting": true, "connects_to": ["Clubhouse Postgame","Acorn Shrine","Sunflower Park","Ruins","Sunflower Elementary","Sky Garden Entrance","Sunflower Market"]},
+	"Clubhouse Postgame": {"requires": "|@HamHam:12|"},
+	"Acorn Shrine": {},
+	"Sunflower Park": {"requires": "|@HamHam:1|"},
+	"Ruins": {"requires": "|@HamHam:3|", "connects_to": ["Ruins 2"]},
+	"Ruins 2": {"requires": "|Penelope|", "connects_to": ["Tack-Q Bowling"]},
+	"Tack-Q Bowling": {"requires": "|Frog Badge| AND |Pooie| AND |Seeds:5|"},
+	"Sunflower Elementary": {"requires": "|@HamHam:3|"},
+	"Sky Garden Entrance": {"requires": "|@HamHam:4|", "connects_to": ["Sky Garden"]},
+	"Sky Garden": {"requires": "|Scoochie|", "connects_to": ["Sky Garden Roof"]},
+	"Sky Garden Roof": {"requires": "|Banana|", "connects_to": ["Sky Garden Island"]},
+	"Sky Garden Island": {"requires": "|Hamtast| AND |Wishie| AND |Seeds:5| AND |Tuggie|"},
+	"Sunflower Market": {"requires": "|@HamHam:4|"}
+}
