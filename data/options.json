@@ -6,14 +6,14 @@
             "type": "Choice",
             "description": [
                 "Choose Victory Condition.",
-                "Bring Home All the Ham Hams - Bring all 12 Ham Hams back to the Clubhouse",
-                "Find All 12 Stars - Requires bringing home all 12 Ham Hams",
-                "Complete the Ham-Chat Dictionary - Requires bringing home all 12 Ham Hams"
+                "Ham Hams - Bring all 12 Ham Hams back to the Clubhouse",
+                "Stars - Collect all 12 Stars.  This requires bringing home all 12 Ham Hams",
+                "Dictionary - Complete the Ham-Chat Dictionary.  This requires bringing home all 12 Ham Hams"
             ],
             "values": {
-                "bring_home_all_the_ham_hams":0,
-                "find_all_stars":1,
-                "complete_the_ham_chat_dictionary":2
+                "ham_hams":0,
+                "stars":1,
+                "dictionary":2
              },
             "default": 0,
             "allow_custom_value": false
@@ -67,7 +67,7 @@
         "Traps":{
             "type": "Range",
             "description": [
-                "Adds Tear Essence to the item pool."
+                "Adds traps (Tear Essence) to the item pool."
             ],
             "range_start": 0,
             "default": 1,
