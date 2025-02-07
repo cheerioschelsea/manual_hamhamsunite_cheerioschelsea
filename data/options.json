@@ -1,0 +1,79 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "type": "Choice",
+            "description": [
+                "Choose Victory Condition.",
+                "Bring Home All the Ham Hams - Bring all 12 Ham Hams back to the Clubhouse",
+                "Find All 12 Stars - Requires bringing home all 12 Ham Hams",
+                "Complete the Ham-Chat Dictionary - Requires bringing home all 12 Ham Hams"
+            ],
+            "values": {
+                "bring_home_all_the_ham_hams":0,
+                "find_all_stars":1,
+                "complete_the_ham_chat_dictionary":2
+             },
+            "default": 0,
+            "allow_custom_value": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "randomize_hamchat":{
+            "description": [
+                "Add Ham-Chat to the item pool."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "randomize_seeds":{
+            "description": [
+                "Add Seeds and Acorns to the item pool."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "randomize_stars":{
+            "description": [
+                "Add Stars to the item pool.",
+                "Do not set this option if Goal is Ham-Hams."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "randomize_rocks":{
+            "description": [
+                "Add Rocks to the item pool.",
+                "Regardless of this setting, the Heavy Rock is always part of the item pool."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "randomize_songs":{
+            "description": [
+                "Add Songs to the item pool.",
+                "This includes the check for G-Rock, which requires all 29 Rocks and the Heavy Rock."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "Traps":{
+            "type": "Range",
+            "description": [
+                "Adds Tear Essence to the item pool."
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 10,
+            "values": {"example": 2}
+        }
+    }
+
+}

@@ -1,0 +1,8 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Ham-Chat": {"yaml_option": ["randomize_hamchat"], "hidden": false},
+    "Seed": {"yaml_option": ["randomize_seeds"], "hidden": false},
+    "Star": {"yaml_option": ["randomize_stars"], "hidden": false},
+    "Rock": {"yaml_option": ["randomize_rocks"], "hidden": false},
+    "Song": {"yaml_option": ["randomize_songs"], "hidden": false}
+}
