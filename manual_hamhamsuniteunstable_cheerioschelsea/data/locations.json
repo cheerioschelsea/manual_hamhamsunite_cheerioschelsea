@@ -94,7 +94,7 @@
 		{"name": "Win the Digdig Game 2", "category": ["Star","Postgame"], "region": "Sunflower Park", "requires": "|@HamHam:12|"},
 		{"name": "Secret Garden Star", "category": ["Star","Postgame"], "region": "Sunflower Park", "requires": "|@HamHam:12|"},
 
-		{"name": "Talk to the Tutorial Ham", "category": ["Ham-Chat"], "region": "Ruins"},
+		{"name": "Talk to the Tutorial Ham at the Ruins", "category": ["Ham-Chat"], "region": "Ruins"},
 		{"name": "Dig in the Entrance Corner", "category": ["Seed"], "region": "Ruins"},
 		{"name": "Water the Flower", "category": ["Seed"], "region": "Ruins"},
 		{"name": "Seed by the Grumpy Ham", "category": ["Seed"], "region": "Ruins"},
@@ -197,7 +197,7 @@
 		{"name": "Compliment the Big Ham", "category": ["Ham-Chat"], "region": "Sky Garden Island", "requires": "|Lookie| AND |Spiffie|"},
 		{"name": "Star Under the Bench", "category": ["Star","Postgame"], "region": "Sky Garden Island", "requires": "|@HamHam:12|"},
 		
-		{"name": "Talk to the Tutorial Ham", "category": ["Ham-Chat"], "region": "Sunflower Market"},
+		{"name": "Talk to the Tutorial Ham at the Market", "category": ["Ham-Chat"], "region": "Sunflower Market"},
 		{"name": "Rock out Front", "category": ["Rock"], "region": "Sunflower Market"},
 		{"name": "Seed out Front", "category": ["Seed"], "region": "Sunflower Market"},
 		{"name": "Rescue the Stuck Ham", "category": ["Ham-Chat"], "region": "Sunflower Market", "requires": "|Tuggie|"},
