@@ -108,7 +108,7 @@
 		{"name": "Ruins Chest 3", "category": ["Rock","Ruins"], "region": "Ruins", "requires": "|Lookie|"},
 		{"name": "Impress the Lilac Ham", "category": ["Ham-Chat","Ruins"], "region": "Ruins"},
 		{"name": "Prove Your Friendship with Penelope", "category": ["Ham-Chat","Ruins"], "region": "Ruins", "requires": "|Tuggie| AND |Hammo|"},
-		{"name": "Bring Penelope Home", "category": ["HamHam","Ruins"], "region": "Ruins", "requires": "|Tuggie| AND |Hammo|"},
+		{"name": "Bring Penelope Home", "category": ["HamHam","Ruins"], "region": "Ruins", "place_item": ["Penelope"], "requires": "|Tuggie| AND |Hammo|"},
 		{"name": "Annoy the Dancing Ham", "category": ["Song","Ruins"], "region": "Ruins", "requires": "|Clapclap|"},
 		{"name": "Ruins Chest Star", "category": ["Star","Postgame","Ruins"], "region": "Ruins", "requires": "|Lookie| AND |@HamHam:12|"},
 
@@ -127,7 +127,7 @@
 		{"name": "Tack-Q Bowling Rock", "category": ["Rock","Ruins"], "region": "Tack-Q Bowling", "requires": "|Ta-dah|"},
 		{"name": "Tack-Q Bowling Wig", "category": ["Item","Ruins"], "region": "Tack-Q Bowling", "requires": "|Ta-dah|"},
 		{"name": "Give Cappy the Shogun Wig", "category": ["Ham-Chat","Ruins"], "region": "Tack-Q Bowling", "requires": "|Ta-dah| AND |Shogun Wig|"},
-		{"name": "Bring Cappy Home", "category": ["HamHam","Ruins"], "region": "Tack-Q Bowling", "requires": "|Ta-dah| AND |Shogun Wig|"},
+		{"name": "Bring Cappy Home", "category": ["HamHam","Ruins"], "region": "Tack-Q Bowling", "place_item": ["Cappy"], "requires": "|Ta-dah| AND |Shogun Wig|"},
 		{"name": "Rock in the Entrance", "category": ["Rock","Ruins"], "region": "Tack-Q Bowling"},
 		{"name": "Talk to the Running Ham", "category": ["Ham-Chat","Ruins"], "region": "Tack-Q Bowling"},
 		{"name": "Tack-Q Bowling Star", "category": ["Star","Postgame","Ruins"], "region": "Tack-Q Bowling", "requires": "|Lookie| AND |@HamHam:12|"},
