@@ -119,7 +119,7 @@
 		{"name": "Frog Badge", "category": ["Item"], "progression": true},
 		{"name": "Heat Patch", "category": ["Item"], "progression": true},
 		{"name": "Limburger", "category": ["Item"], "progression": true},
-		{"name": "Love Note", "category": ["Item"], "normal": true},
+		{"name": "Love Note", "category": ["Item"], "progression": true},
 		{"name": "Lunch", "category": ["Item"], "progression": true},
 		{"name": "News Flash", "category": ["Item"], "progression": true},
 		{"name": "Scarf", "category": ["Item"], "progression": true},
