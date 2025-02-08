@@ -1,8 +1,7 @@
 {
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+	"_comment": "I'm going to have No-P not be required by logic, and it is just always plando to prevent soft-locking the player.",
 	"data": [
-		{"_comment": "I'm going to have No-P not be required by logic, and it is just always plando to prevent soft-locking the player."},
-
 		{"name": "Bring All the Ham Hams Home", "category": ["Clubhouse","Event"], "region": "Clubhouse", "requires": "|@HamHam:12|", "victory": true},
 		{"name": "Upgrade to Ham-Chat Dictionary", "category": ["Clubhouse","Event","Postgame"], "region": "Clubhouse", "requires": "|@HamHam:12| AND |@Ham-Chat:85| AND |Hamtast|", "victory": true},
 		{"name": "Dance to Little Star in the Dance Hall", "category": ["Clubhouse","Event","Postgame"], "region": "Clubhouse", "requires": "|@HamHam:12| AND |Star:12|", "victory": true},
