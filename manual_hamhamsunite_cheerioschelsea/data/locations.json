@@ -248,7 +248,7 @@
 		{"name": "Seed Above the Strawberries", "category": ["Sunflower Market","Seed"], "region": "Sunflower Market", "requires": "|Hif-hif|"},
 		{"name": "Become a Strawberry Soccer Champion", "category": ["Sunflower Market","Song"], "region": "Sunflower Market", "requires": "|Hif-hif| AND |Strawberry| AND |Yep-P| AND |Hamha|"},
 		{"name": "Seed on the Cookie Shelf", "category": ["Sunflower Market","Seed"], "region": "Sunflower Market", "requires": "|Hif-hif|"},
-		{"name": "Acorn on the Cookie Box", "category": ["Sunflower Market","Seed"], "region": "Sunflower Market", "requires": "|Tuggie| AND |Hif-hif"},
+		{"name": "Acorn on the Cookie Box", "category": ["Sunflower Market","Seed"], "region": "Sunflower Market", "requires": "|Tuggie| AND |Hif-hif|"},
 		{"name": "Assist the Cookie Ham", "category": ["Sunflower Market","Ham-Chat"], "region": "Sunflower Market", "requires": "|Tack-Q| AND |Tuggie|"},
 		{"name": "Learn About the Best Cookies", "category": ["Sunflower Market","Event"], "region": "Sunflower Market", "place_item": ["Cookie Lore"], "requires": "|Tack-Q| AND |Tuggie|"},
 		{"name": "Feed the Hungry Ham", "category": ["Sunflower Market","Ham-Chat"], "region": "Sunflower Market", "requires": "|Hamha| AND |Yep-P|"},
