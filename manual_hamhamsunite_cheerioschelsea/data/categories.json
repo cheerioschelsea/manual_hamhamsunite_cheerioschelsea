@@ -6,6 +6,7 @@
     "Rock": {"yaml_option": ["randomize_rocks"], "hidden": true, "default": false},
     "Song": {"yaml_option": ["randomize_songs"], "hidden": true, "default": false},
     "Shop": {"yaml_option": ["randomize_shops"], "hidden": true, "default": false},
+    "Item": {"hidden": true},
     "HamHam": {"hidden": true},
     "Event": {"hidden": true},
     "Postgame": {"hidden": true},
