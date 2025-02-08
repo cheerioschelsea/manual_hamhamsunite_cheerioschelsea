@@ -6,11 +6,11 @@
 	"Sunflower Park": {"requires": "|@HamHam:1|"},
 	"Ruins": {"requires": "|@HamHam:3|", "connects_to": ["Ruins 2"]},
 	"Ruins 2": {"requires": "|Penelope|", "connects_to": ["Tack-Q Bowling"]},
-	"Tack-Q Bowling": {"requires": "|Frog Badge| AND |Pooie| AND |Seeds:5|"},
+	"Tack-Q Bowling": {"requires": "|Frog Badge| AND |Pooie|"},
 	"Sunflower Elementary": {"requires": "|@HamHam:3|"},
 	"Sky Garden Entrance": {"requires": "|@HamHam:4|", "connects_to": ["Sky Garden"]},
 	"Sky Garden": {"requires": "|Scoochie|", "connects_to": ["Sky Garden Roof"]},
 	"Sky Garden Roof": {"requires": "|Banana|", "connects_to": ["Sky Garden Island"]},
-	"Sky Garden Island": {"requires": "|Hamtast| AND |Wishie| AND |Seeds:5| AND |Tuggie|"},
+	"Sky Garden Island": {"requires": "|Hamtast| AND |Wishie| AND |Tuggie|"},
 	"Sunflower Market": {"requires": "|@HamHam:4|"}
 }

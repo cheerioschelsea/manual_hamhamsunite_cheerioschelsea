@@ -114,7 +114,7 @@
 		{"name": "Flyer", "category": ["Item"], "normal": true},
 		{"name": "Frog Badge", "category": ["Item"], "progression": true},
 		{"name": "Heat Patch", "category": ["Item"], "progression": true},
-		{"name": "Limburger", "category": ["Item"], "normal": true},
+		{"name": "Limburger", "category": ["Item"], "progression": true},
 		{"name": "Love Note", "category": ["Item"], "normal": true},
 		{"name": "Lunch", "category": ["Item"], "progression": true},
 		{"name": "News Flash", "category": ["Item"], "progression": true},
