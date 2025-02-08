@@ -9,7 +9,7 @@
 		{"name": "Initial Word 5", "category": ["Ham-Chat","Clubhouse"], "region": "Clubhouse", "place_item": ["Yep-P"]},
 		{"name": "Initial Word 6", "category": ["Ham-Chat","Clubhouse"], "region": "Clubhouse", "place_item": ["No-P"]},
 		{"name": "Initial Word 7", "category": ["Ham-Chat","Clubhouse"], "region": "Clubhouse"},
-		{"name": "Dance Room Dirt Patch", "category": ["Seed","Clubhouse"], "region": "Clubhouse"},
+		{"name": "Dance Room Dirt Patch", "category": ["Rock","Clubhouse"], "region": "Clubhouse"},
 		{"name": "Dance Room Tree Right", "category": ["Seed","Clubhouse"], "region": "Clubhouse"},
 		{"name": "Talk to Bijou", "category": ["Ham-Chat","Clubhouse"], "region": "Clubhouse", "requires": "|Bijou| AND |Hamsolo| AND |Thank-Q|"},
 		{"name": "Bring 3 Hams Home 1", "category": ["Event","Clubhouse"], "region": "Clubhouse", "requires": "|@HamHam:3|"},
