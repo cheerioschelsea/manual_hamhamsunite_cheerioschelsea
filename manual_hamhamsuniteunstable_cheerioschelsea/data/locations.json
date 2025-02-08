@@ -190,7 +190,7 @@
 
 		{"name": "Rock Under the Bench", "category": ["Rock"], "region": "Sky Garden Island"},
 		{"name": "Acorn Behind the Bench", "category": ["Seed"], "region": "Sky Garden Island"},
-		{"name": "Talk to Sandy", "category": ["Ham-Chat"], "region": "Sky Garden Island", "requires": "|Lookie|"},
+		{"name": "Talk to Sandy on the Bench", "category": ["Ham-Chat"], "region": "Sky Garden Island", "requires": "|Lookie|"},
 		{"name": "Catch Stan", "category": ["Ham-Chat"], "region": "Sky Garden Island", "requires": "|Lookie| AND |Hamteam|"},
 		{"name": "Bring Sandy Home", "category": ["HamHam"], "region": "Sky Garden Island", "place_item": ["Sandy"], "requires": "|Lookie| AND |Hamteam|"},
 		{"name": "Bring Stan Home", "category": ["HamHam"], "region": "Sky Garden Island", "place_item": ["Stan"], "requires": "|Lookie| AND |Hamteam|"},
