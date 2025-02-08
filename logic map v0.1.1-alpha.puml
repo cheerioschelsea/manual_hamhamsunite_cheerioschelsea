@@ -1,0 +1,246 @@
+@startuml
+hide circle
+hide empty members
+skinparam linetype ortho
+class "Menu"
+"Menu" --> "Manual"
+class "Manual"
+"Manual" --> "Clubhouse"
+class "Clubhouse"
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Dance Room Tree Left
+"Clubhouse" : {method} <&lock-locked> Initial Word 1: **Hamha**
+"Clubhouse" : {method} <&lock-locked> Initial Word 2: **Tack-Q**
+"Clubhouse" : {method} <&lock-locked> Initial Word 3: **Hif-hif**
+"Clubhouse" : {method} <&lock-locked> Initial Word 4: **Digdig**
+"Clubhouse" : {method} <&lock-locked> Initial Word 5: **Yep-P**
+"Clubhouse" : {method} <&lock-locked> Initial Word 6: **No-P**
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Initial Word 7
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Dance Room Dirt Patch
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Dance Room Tree Right
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Bijou
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Bring 3 Hams Home 1
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Bring 3 Hams Home 2
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Reunite Penelope and Pashmina
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Jingle
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Dexter and Maxwell
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Howdy and Maxwell
+"Clubhouse" : {method} <&lock-locked> //Bring All the Ham Hams Home//: //**__Victory__**//
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Snoozer
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Oxnard
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Stan
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Maxwell
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Panda
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Sandy
+"Clubhouse" : {field} <&lock-unlocked,color=transparent> Talk to Cappy
+"Clubhouse" --> "Acorn Shrine"
+"Clubhouse" --> "Sunflower Park"
+"Clubhouse" --> "Ruins"
+"Clubhouse" --> "Sunflower Elementary"
+"Clubhouse" --> "Sky Garden Entrance"
+"Clubhouse" --> "Sunflower Market"
+class "Acorn Shrine"
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Tree by Entrance
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Seed by Entrance
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Dirt Patch by Entrance
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Tree by HM Boutique
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Talk to the Tiny Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Tree by the Tiny Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Visit the Old Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Sniff the Flower
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Collect Tricket
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Play with the Grate Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Dirt Patch by the Grate
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Talk to the Buried Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Attack the Sleepy Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Under the Rock
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Follow the Pill Bug 1
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Piece of Wall 1
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Piece of Wall 2
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Cheer Up Maxwell
+"Acorn Shrine" : {method} <&lock-locked> Bring Maxwell Home: **Maxwell**
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Sniff the Shaky Grass
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Knock Down the Cherry Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Knock Down the Climbing Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Tall Grass by Cherry Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Attack the Big Sad Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Get Love Note
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Tall Grass by Bijou
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Shiny Rock in Tall Grass
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Give Bijou Shiny Rock
+"Acorn Shrine" : {method} <&lock-locked> Bring Bijou Home: **Bijou**
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Startle the Sleepy Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Get Cookies from the Old Ham
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Trade That for Cherry
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Follow the Pill Bug 2
+"Acorn Shrine" : {field} <&lock-unlocked,color=transparent> Follow the Ladybug
+class "Sunflower Park"
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Sniff Behind the Umbrella
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Smell the Olive Oil Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Smell the Counting Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Find the Sand Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Seed by the Sign Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Find the Sign Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Seed by Tricket Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Talk to the Tricket Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Get Cucumber from Tricket Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Rock by the Slide
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Find the Buried Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Get Limburger from Counting Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Upset Oxnard
+"Sunflower Park" : {method} <&lock-locked> Bring Oxnard Home: **Oxnard**
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Win the Digdig Game 1
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Return Tricket
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Secret Garden Chest 1
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Secret Garden Chest 2
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Secret Garden Chest 3
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Greet the Flowers 1
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Greet the Flowers 2
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Climb the 4th Pole
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Knock Down the 2nd Pole Ham
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Get Pashmina's Scarf
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Return Pashmina's Scarf
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Bring Pashmina Home
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Win the Digdig Game 2
+"Sunflower Park" : {field} <&lock-unlocked,color=transparent> Secret Garden Star
+class "Ruins"
+"Ruins" : {field} Talk to the Tutorial Ham at the Ruins
+"Ruins" : {field} Dig in the Entrance Corner
+"Ruins" : {field} Water the Flower
+"Ruins" : {field} Seed by the Grumpy Ham
+"Ruins" : {field} Drop a Sink on the Grumpy Ham
+"Ruins" : {field} Applaud the Dancing Ham
+"Ruins" : {field} Rock by the Clock
+"Ruins" : {field} Disturb the Shy Ham
+"Ruins" : {field} Seed on the Car
+"Ruins" : {field} Ruins Chest 1
+"Ruins" : {field} Ruins Chest 2
+"Ruins" : {field} Ruins Chest 3
+"Ruins" : {field} Impress the Lilac Ham
+"Ruins" : {field} Prove Your Friendship with Penelope
+"Ruins" : {field} Bring Penelope Home
+"Ruins" : {field} Annoy the Dancing Ham
+"Ruins" : {field} Ruins Chest Star
+"Ruins" : {field} Violate the Shy Ham's Privacy
+"Ruins" --> "Ruins 2"
+class "Sunflower Elementary"
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Attack the Dog
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Rock by the Dog
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Tree by the Dog
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Pick up the Flyer
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Seed on the Left Shelf
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Seed on the Right Shelf
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Sell the Limburger
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Buy Hamtaro Time
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Buy the Tear Essence
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Talk to the Banana Ham
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Get the Banana
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Rock on the Ground Floor
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Seed in the Wood Shop
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Seed in the Upstairs Hall
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Buy the Bottle
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Rock in the Science Room
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Yell at the Nerdy Ham
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Sniff the Calm Ham's Tea
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Talk to the Computer Ham
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Visit Hamtarocom
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Talk to Panda in the Woodshop
+"Sunflower Elementary" : {method} <&lock-locked> Bring Panda Home: **Panda**
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Wishie Panda Fix the Bottle
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Obtain the Flower Tea
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Heed Warning from the Tea Ham
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Help the Tummy-Ache Ham
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Rock by Jingle
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Tree by Jingle
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Help Jingle Write his Song
+"Sunflower Elementary" : {method} <&lock-locked> Bring Jingle Home: **Jingle**
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Buy the Fake Ham-Chats
+"Sunflower Elementary" : {field} <&lock-unlocked,color=transparent> Woodshop Star
+class "Sky Garden Entrance"
+"Sky Garden Entrance" : {field} Rock in the Tunnel
+"Sky Garden Entrance" : {field} Deposit the Rocks
+"Sky Garden Entrance" --> "Sky Garden"
+class "Sunflower Market"
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Talk to the Tutorial Ham at the Market
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Rock out Front
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Seed out Front
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Rescue the Stuck Ham
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Gift from the Stuck Ham
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Commit Mail Fraud
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Visit the Cold Ham
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Rock in the Freezer
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Talk to Dexter
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Rock in the Soda Can
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Play with the Mimic Ham
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Seed Upper Left
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Rock Above the Strawberries
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Seed Above the Strawberries
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Become a Strawberry Soccer Champion
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Seed on the Cookie Shelf
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Acorn on the Cookie Box
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Assist the Cookie Ham
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Feed the Hungry Ham
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Talk to Howdy
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Find the Bag
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Deliver the Bag
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Reward for Delivering Bag
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Buy the Heat Patch
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Buy the Sticker
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Buy the Flugo
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Deliver the Flugo
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Deliver the Flugo+
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Star in the Register
+"Sunflower Market" : {field} <&lock-unlocked,color=transparent> Feed the Hungry Ham Again
+"Sunflower Market" : {method} <&lock-locked> Bring Howdy Home: **Howdy**
+"Sunflower Market" : {method} <&lock-locked> Bring Dexter Home: **Dexter**
+class "Ruins 2"
+"Ruins 2" : {field} Earn the Frog Badge
+"Ruins 2" : {field} Talk to the Panicky Ham
+"Ruins 2" : {field} Talk to the Strong Ham
+"Ruins 2" : {field} Elevator Seed 1
+"Ruins 2" : {field} Elevator Seed 2
+"Ruins 2" : {field} Elevator Seed 3
+"Ruins 2" : {field} Knock Down the Scared Ham
+"Ruins 2" : {field} Seed on the Pole
+"Ruins 2" : {field} Check the Forecast
+"Ruins 2" --> "Tack-Q Bowling"
+class "Sky Garden"
+"Sky Garden" : {field} Rock on the Sidewalk
+"Sky Garden" : {field} Seed on the Sidewalk Upper Left
+"Sky Garden" : {field} Seed on the Sidewalk Lower Right
+"Sky Garden" : {field} Seed in the Hedges 1
+"Sky Garden" : {field} Seed in the Hedges 2
+"Sky Garden" : {field} Get the Lunch
+"Sky Garden" : {field} Talk to the Pair of Hams
+"Sky Garden" : {field} Trade This for That
+"Sky Garden" : {field} Cheer Up the Crying Ham
+"Sky Garden" --> "Sky Garden Roof"
+class "Tack-Q Bowling"
+"Tack-Q Bowling" : {field} Rock in the Building
+"Tack-Q Bowling" : {field} Tack-Q Bowling Rock
+"Tack-Q Bowling" : {field} Tack-Q Bowling Wig
+"Tack-Q Bowling" : {field} Give Cappy the Shogun Wig
+"Tack-Q Bowling" : {field} Bring Cappy Home
+"Tack-Q Bowling" : {field} Rock in the Entrance
+"Tack-Q Bowling" : {field} Talk to the Running Ham
+"Tack-Q Bowling" : {field} Tack-Q Bowling Star
+class "Sky Garden Roof"
+"Sky Garden Roof" : {field} Seed on the Hospital
+"Sky Garden Roof" : {field} Speak with the Golf Ham
+"Sky Garden Roof" : {field} Seed on the Golf Flag
+"Sky Garden Roof" : {field} Seed at the Crow's Pad
+"Sky Garden Roof" : {field} Slip of the Banana Peel
+"Sky Garden Roof" : {field} Sniff the Olive Oil Ham
+"Sky Garden Roof" : {field} Seed Behind the Umbrella
+"Sky Garden Roof" : {field} Buy the Flugo+
+"Sky Garden Roof" : {field} Star at the Crow's Pad
+"Sky Garden Roof" --> "Sky Garden Island"
+class "Sky Garden Island"
+"Sky Garden Island" : {field} <&lock-unlocked,color=transparent> Rock Under the Bench
+"Sky Garden Island" : {field} <&lock-unlocked,color=transparent> Acorn Behind the Bench
+"Sky Garden Island" : {field} <&lock-unlocked,color=transparent> Talk to Sandy on the Bench
+"Sky Garden Island" : {field} <&lock-unlocked,color=transparent> Catch Stan
+"Sky Garden Island" : {method} <&lock-locked> Bring Sandy Home: **Sandy**
+"Sky Garden Island" : {method} <&lock-locked> Bring Stan Home: **Stan**
+"Sky Garden Island" : {field} <&lock-unlocked,color=transparent> Compliment the Big Ham
+"Sky Garden Island" : {field} <&lock-unlocked,color=transparent> Star Under the Bench
+@enduml
