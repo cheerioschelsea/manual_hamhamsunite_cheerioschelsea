@@ -101,6 +101,10 @@
 		{"name": "Sandy", "category": ["HamHam"], "progression": true},
 		{"name": "Stan", "category": ["HamHam"], "progression": true},
 
+		{"name": "Doctor", "category": ["Event"], "progression": true},
+		{"name": "Cookie Lore", "category": ["Event"], "progression": true},
+		{"name": "Market Troubles", "category": ["Event"], "progression": true},
+
 		{"name": "Bag", "category": ["Item"], "progression": true},
 		{"name": "Banana", "category": ["Item"], "progression": true},
 		{"name": "Bottle - Broken", "category": ["Item"], "progression": true},
@@ -134,7 +138,7 @@
 		{"name": "10 Sunflower Seeds", "category": ["Seed"], "count": 2, "useful": true},
 		{"name": "20 Sunflower Seeds", "category": ["Seed"], "count": 1, "useful": true},
 		{"name": "5 Sunflower Seeds", "category": ["Seed"], "count": 10, "useful": true},
-		{"name": "Acorn", "category": ["Seed"], "count": 10, "useful": true},
+		{"name": "Acorn", "category": ["Seed"], "count": 10, "progression_skip_balancing": true},
 		{"name": "Sunflower Seed", "category": ["Seed"], "count": 10, "useful": true},
 
 		{"name": "Bolero", "category": ["Song"], "normal": true},

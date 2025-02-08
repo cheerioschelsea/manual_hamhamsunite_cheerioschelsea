@@ -3,13 +3,15 @@
 	"Clubhouse": {"starting": true, "connects_to": ["Acorn Shrine","Sunflower Park","Ruins","Sunflower Elementary","Sky Garden Entrance","Sunflower Market"]},
 	"Acorn Shrine": {},
 	"Sunflower Park": {"requires": "|@HamHam:1|"},
-	"Ruins": {"requires": "|@HamHam:3|", "connects_to": ["Ruins 2"]},
-	"Ruins 2": {"requires": "|Penelope|", "connects_to": ["Tack-Q Bowling"]},
-	"Tack-Q Bowling": {"requires": "|Frog Badge| AND |Pooie|"},
-	"Sunflower Elementary": {"requires": "|@HamHam:3|"},
+	"Ruins Entrance": {"requires": "|@HamHam:3|", "connects_to": ["Ruins"]},
+	"Ruins": {"requires": "|Yep-P|", "connects_to": ["Ruins Elevator"]},
+	"Ruins Elevator": {"requires": "|Hamha| AND |Yep-P|", "connects_to": ["Tack-Q Bowling"]},
+	"Tack-Q Bowling": {"requires": "|Penelope| AND |Frog Badge| AND |Pooie| AND |Digdig|"},
+	"Sunflower Elementary": {"requires": "|@HamHam:3| AND |Tack-Q|"},
 	"Sky Garden Entrance": {"requires": "|@HamHam:4|", "connects_to": ["Sky Garden"]},
-	"Sky Garden": {"requires": "|Scoochie|", "connects_to": ["Sky Garden Roof"]},
-	"Sky Garden Roof": {"requires": "|Banana|", "connects_to": ["Sky Garden Island"]},
-	"Sky Garden Island": {"requires": "|Hamtast| AND |Wishie| AND |Tuggie|"},
-	"Sunflower Market": {"requires": "|@HamHam:4|"}
+	"Sky Garden": {"requires": "|Scoochie| AND |Tack-Q|", "connects_to": ["Sky Garden Roof"]},
+	"Sky Garden Roof": {"requires": "|Banana| AND |Yep-P|", "connects_to": ["Sky Garden Island"]},
+	"Sky Garden Island": {"requires": "|Hamha| AND |Hamtast| AND |Wishie| AND |Tuggie|"},
+	"Sunflower Market": {"requires": "|@HamHam:4|", "connects_to": ["Howdy and Dexter Plot"]},
+	"Howdy and Dexter Plot": {"requires": "|Market Troubles|"}
 }

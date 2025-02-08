@@ -35,7 +35,8 @@
         },
         "randomize_seeds":{
             "description": [
-                "Add Seeds and Acorns to the item pool."
+                "Add Seeds and Acorns to the item pool.",
+                "This includes trading Acorns in Acorn Shrine."
             ],
             "type": "Toggle",
             "default": false
@@ -64,7 +65,15 @@
             "type": "Toggle",
             "default": false
         },
-        "Traps":{
+        "randomize_shops":{
+            "description": [
+                "Add shop items to the item pool.",
+                "This includes trading Acorns in Acorn Shrine."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "traps":{
             "type": "Range",
             "description": [
                 "Adds traps (Tear Essence) to the item pool."
