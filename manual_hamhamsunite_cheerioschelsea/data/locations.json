@@ -142,7 +142,7 @@
 		{"name": "Bring Penelope Home", "category": ["Ruins","Event"], "region": "Ruins", "place_item": ["Penelope"], "requires": "|Tuggie| AND |Hamha| AND |Hammo|"},
 		{"name": "Talk to the Panicky Ham", "category": ["Ruins","Ham-Chat"], "region": "Ruins"},
 		{"name": "Elevator Seed 1", "category": ["Ruins","Seed"], "region": "Ruins", "requires": "|Hif-hif|"},
-		{"name": "Earn the Frog Badge", "category": ["Ruins","Item"], "region": "Ruins", "requires": "|Penelope| |Hamha| AND |Bestest| AND |Hif-hif|"},
+		{"name": "Earn the Frog Badge", "category": ["Ruins","Item"], "region": "Ruins", "requires": "|Penelope| AND |Hamha| AND |Bestest| AND |Hif-hif|"},
 
 		{"name": "Talk to the Strong Ham", "category": ["Ruins","Ham-Chat"], "region": "Ruins Elevator", "requires": ""},
 		{"name": "Elevator Seed 2", "category": ["Ruins","Seed"], "region": "Ruins Elevator", "requires": "|Hif-hif|"},
