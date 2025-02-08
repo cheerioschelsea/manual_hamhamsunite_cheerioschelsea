@@ -52,7 +52,7 @@
 		{"name": "Talk to the Buried Ham", "category": ["Acorn Shrine","Ham-Chat"], "region": "Acorn Shrine", "requires": "|Hamha|"},
 		{"name": "Attack the Sleepy Ham", "category": ["Acorn Shrine","Ham-Chat"], "region": "Acorn Shrine", "requires": "|Tack-Q|"},
 		{"name": "Under the Rock", "category": ["Acorn Shrine","Rock"], "region": "Acorn Shrine", "requires": "|Tack-Q| AND |Digdig|"},
-		{"name": "Follow the Pill Bug 1", "category": ["Acorn Shrine","Seed"], "region": "Acorn Shrine", "requires": "|Tack-Q| AND |Hif-Hif|"},
+		{"name": "Follow the Pill Bug 1", "category": ["Acorn Shrine","Seed"], "region": "Acorn Shrine", "requires": "|Tack-Q| AND |Hif-hif|"},
 		{"name": "Piece of Wall 1", "category": ["Acorn Shrine","Rock"], "region": "Acorn Shrine", "requires": "|Tack-Q| AND |Hif-hif|"},
 		{"name": "Piece of Wall 2", "category": ["Acorn Shrine","Rock"], "region": "Acorn Shrine", "requires": "|Tack-Q| AND |Hif-hif|"},
 		{"name": "Cheer Up Maxwell", "category": ["Acorn Shrine","Ham-Chat"], "region": "Acorn Shrine", "requires": "|Tack-Q| AND |Hamha| AND |Nopibloo|"},
