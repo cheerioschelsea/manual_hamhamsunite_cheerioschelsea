@@ -90,7 +90,7 @@
 		{"name": "Knock Down the 2nd Pole Ham", "category": ["Ham-Chat","Sunflower Park"], "region": "Sunflower Park"},
 		{"name": "Get Pashmina's Scarf", "category": ["Item","Sunflower Park"], "region": "Sunflower Park", "requires": "|Gasp-P| AND |Scoochie| AND (|Go-P| OR |Hammo| OR |Blanko| OR |Zuzuzu|)"},
 		{"name": "Return Pashmina's Scarf", "category": ["Ham-Chat","Sunflower Park"], "region": "Sunflower Park", "requires": "|Scarf| AND |Scoochie|"},
-		{"name": "Bring Pashmina Home", "category": ["HamHam","Sunflower Park"], "region": "Sunflower Park", "requires": "|Scarf| AND |Scoochie|"},
+		{"name": "Bring Pashmina Home", "category": ["HamHam","Sunflower Park"], "region": "Sunflower Park", "place_item": ["Pashmina"], "requires": "|Scarf| AND |Scoochie|"},
 		{"name": "Win the Digdig Game 2", "category": ["Star","Postgame","Sunflower Park"], "region": "Sunflower Park", "requires": "|@HamHam:12|"},
 		{"name": "Secret Garden Star", "category": ["Star","Postgame","Sunflower Park"], "region": "Sunflower Park", "requires": "|@HamHam:12|"},
 
