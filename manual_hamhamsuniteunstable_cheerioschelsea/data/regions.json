@@ -1,7 +1,6 @@
 {
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
 	"Clubhouse": {"starting": true, "connects_to": ["Clubhouse Postgame","Acorn Shrine","Sunflower Park","Ruins","Sunflower Elementary","Sky Garden Entrance","Sunflower Market"]},
-	"Clubhouse Postgame": {"requires": "|@HamHam:12|"},
 	"Acorn Shrine": {},
 	"Sunflower Park": {"requires": "|@HamHam:1|"},
 	"Ruins": {"requires": "|@HamHam:3|", "connects_to": ["Ruins 2"]},

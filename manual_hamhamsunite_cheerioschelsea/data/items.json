@@ -43,7 +43,7 @@
 		{"name": "Hushgo", "category": ["Ham-Chat"], "normal": true},
 		{"name": "Hushie", "category": ["Ham-Chat"], "normal": true},
 		{"name": "Koochi-Q", "category": ["Ham-Chat"], "progression": true},
-		{"name": "Krmpkrmp", "category": ["Ham-Chat"], "normal": true},
+		{"name": "Krmpkrmp", "category": ["Ham-Chat"], "progression": true},
 		{"name": "Lookie", "category": ["Ham-Chat"], "progression": true},
 		{"name": "Lotsa", "category": ["Ham-Chat"], "normal": true},
 		{"name": "Meep-P", "category": ["Ham-Chat"], "normal": true},
@@ -133,7 +133,6 @@
 
 		{"name": "10 Sunflower Seeds", "category": ["Seed"], "count": 2, "useful": true},
 		{"name": "20 Sunflower Seeds", "category": ["Seed"], "count": 1, "useful": true},
-		{"name": "3 Sunflower Seeds", "category": ["Seed"], "count": 10, "useful": true},
 		{"name": "5 Sunflower Seeds", "category": ["Seed"], "count": 10, "useful": true},
 		{"name": "Acorn", "category": ["Seed"], "count": 10, "useful": true},
 		{"name": "Sunflower Seed", "category": ["Seed"], "count": 10, "useful": true},
