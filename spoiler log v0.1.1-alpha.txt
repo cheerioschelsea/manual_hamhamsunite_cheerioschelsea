@@ -1,0 +1,312 @@
+﻿Archipelago Version 0.5.1  -  Seed: 65255368029110303771
+
+Filling Algorithm:               balanced
+Players:                         1
+Plando Options:                  connections, texts, bosses
+Game:                            Manual_HamHamsUnite_cheerioschelsea
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Start Inventory from Pool:       
+goal:                            Bring All The Ham Hams Home
+filler_traps:                    0
+randomize_hamchat:               Yes
+randomize_seeds:                 Yes
+randomize_stars:                 Yes
+randomize_rocks:                 Yes
+randomize_songs:                 Yes
+
+
+Locations:
+
+Dance Room Tree Left: Lookie
+Initial Word 1: Hamha
+Initial Word 2: Tack-Q
+Initial Word 3: Hif-hif
+Initial Word 4: Digdig
+Initial Word 5: Yep-P
+Initial Word 6: No-P
+Initial Word 7: Sunflower Seed
+Dance Room Dirt Patch: News Flash
+Dance Room Tree Right: 5 Sunflower Seeds
+Talk to Bijou: Pookie
+Bring 3 Hams Home 1: Rock
+Bring 3 Hams Home 2: Bottle - Broken
+Reunite Penelope and Pashmina: Shogun Wig
+Talk to Jingle: Twintoo
+Talk to Dexter and Maxwell: Heavy Rock
+Talk to Howdy and Maxwell: 3 Sunflower Seeds
+Bring All the Ham Hams Home: __Victory__
+Talk to Snoozer: 3 Sunflower Seeds
+Talk to Oxnard: 3 Sunflower Seeds
+Talk to Stan: Young 'n Wild
+Talk to Maxwell: Rock
+Talk to Panda: Giftee
+Talk to Sandy: Grab-B
+Talk to Cappy: Flugo
+Tree by Entrance: Acorn
+Seed by Entrance: Star
+Dirt Patch by Entrance: Rock
+Tree by HM Boutique: Greatchu
+Talk to the Tiny Ham: 10 Sunflower Seeds
+Tree by the Tiny Ham: 10 Sunflower Seeds
+Visit the Old Ham: Sunflower Seed
+Sniff the Flower: Thank-Q
+Collect Tricket: Blash-T
+Play with the Grate Ham: Rock
+Dirt Patch by the Grate: Rock
+Talk to the Buried Ham: Givehoo
+Attack the Sleepy Ham: Rock
+Under the Rock: Nopibloo
+Follow the Pill Bug 1: Pashmina
+Piece of Wall 1: Nogo
+Piece of Wall 2: Whawha
+Cheer Up Maxwell: Rock
+Bring Maxwell Home: Maxwell
+Sniff the Shaky Grass: Dundeal
+Knock Down the Cherry Ham: Krmpkrmp
+Knock Down the Climbing Ham: Star
+Tall Grass by Cherry Ham: Acorn
+Attack the Big Sad Ham: Banana
+Get Love Note: Cramcram
+Tall Grass by Bijou: Wit-T
+Shiny Rock in Tall Grass: Dingbang
+Give Bijou Shiny Rock: Sunflower Seed
+Bring Bijou Home: Bijou
+Startle the Sleepy Ham: Postman's Rush
+Get Cookies from the Old Ham: Star
+Trade That for Cherry: Sunflower Seed
+Follow the Pill Bug 2: Acorn
+Follow the Ladybug: Flugo+
+Sniff Behind the Umbrella: 5 Sunflower Seeds
+Smell the Olive Oil Ham: Wait-Q
+Smell the Counting Ham: Gorush
+Find the Sand Ham: Goodgo
+Seed by the Sign Ham: Blushie
+Find the Sign Ham: Bluhoo
+Seed by Tricket Ham: Ta-dah
+Talk to the Tricket Ham: Star
+Get Cucumber from Tricket Ham: Hamteam
+Rock by the Slide: Stickie
+Find the Buried Ham: Acorn
+Get Limburger from Counting Ham: Sparklie
+Upset Oxnard: Blissie
+Bring Oxnard Home: Oxnard
+Win the Digdig Game 1: Star
+Return Tricket: Rock
+Secret Garden Chest 1: Cookies
+Secret Garden Chest 2: Cappy
+Secret Garden Chest 3: Rock
+Greet the Flowers 1: 3 Sunflower Seeds
+Greet the Flowers 2: Sunflower Seed
+Climb the 4th Pole: Rock
+Knock Down the 2nd Pole Ham: Scrit-T
+Get Pashmina's Scarf: Shashaa
+Return Pashmina's Scarf: Huffpuff
+Bring Pashmina Home: Hamtast
+Win the Digdig Game 2: G Rock
+Secret Garden Star: 5 Sunflower Seeds
+Talk to the Tutorial Ham at the Ruins: Rock
+Dig in the Entrance Corner: Cherry
+Water the Flower: 3 Sunflower Seeds
+Seed by the Grumpy Ham: Pooie
+Drop a Sink on the Grumpy Ham: Star
+Applaud the Dancing Ham: Star
+Rock by the Clock: Tear Essence
+Disturb the Shy Ham: Sunflower Seed
+Seed on the Car: Limburger
+Ruins Chest 1: 5 Sunflower Seeds
+Ruins Chest 2: Rock
+Ruins Chest 3: Soak-Q
+Impress the Lilac Ham: Rock
+Prove Your Friendship with Penelope: Koochi-Q
+Bring Penelope Home: Cucumber
+Annoy the Dancing Ham: Bolero
+Ruins Chest Star: Hulahula
+Violate the Shy Ham's Privacy: Tuggie
+Earn the Frog Badge: Gasp-P
+Talk to the Panicky Ham: 5 Sunflower Seeds
+Talk to the Strong Ham: Perksie
+Elevator Seed 1: Zuzuzu
+Elevator Seed 2: Oopsie
+Elevator Seed 3: Hamtaro Time
+Knock Down the Scared Ham: Spiffie
+Seed on the Pole: Little Star
+Check the Forecast: Ouchichi
+Rock in the Building: 5 Sunflower Seeds
+Tack-Q Bowling Rock: Star
+Tack-Q Bowling Wig: Hushie
+Give Cappy the Shogun Wig: Bizzaroo
+Bring Cappy Home: Meep-P
+Rock in the Entrance: Rock
+Talk to the Running Ham: Bye-Q
+Tack-Q Bowling Star: Rock
+Attack the Dog: Acorn
+Rock by the Dog: Acorn
+Tree by the Dog: Star
+Pick up the Flyer: Lunch
+Seed on the Left Shelf: Acorn
+Seed on the Right Shelf: Hampact
+Sell the Limburger: Go-P
+Buy Hamtaro Time: Sticker
+Buy the Tear Essence: Wondachu
+Talk to the Banana Ham: 5 Sunflower Seeds
+Get the Banana: Rock
+Rock on the Ground Floor: Hamsolo
+Seed in the Wood Shop: Rock
+Seed in the Upstairs Hall: Panic-Q
+Buy the Bottle: Acorn
+Rock in the Science Room: Noworrie
+Yell at the Nerdy Ham: Star
+Sniff the Calm Ham's Tea: Hushgo
+Talk to the Computer Ham: Sunflower Seed
+Visit Hamtaro.com: Minglie
+Talk to Panda in the Woodshop: Mega-Q
+Bring Panda Home: Panda
+Wishie Panda Fix the Bottle: Frog Badge
+Obtain the Flower Tea: Flower Tea
+Heed Warning from the Tea Ham: Blahh
+Help the Tummy-Ache Ham: Acorn
+Rock by Jingle: Teenie
+Tree by Jingle: Love Note
+Help Jingle Write his Song: Grit-T
+Bring Jingle Home: Jingle
+Buy the Fake Ham-Chats: Pakapaka
+Woodshop Star: Rock
+Rock in the Tunnel: Rock
+Deposit the Rocks: Clapclap
+Rock on the Sidewalk: Penelope
+Seed on the Sidewalk Upper Left: See-Tru
+Seed on the Sidewalk Lower Right: Nokrmp-P
+Seed in the Hedges 1: Lotsa
+Seed in the Hedges 2: Delichu
+Get the Lunch: Shiny Rock
+Talk to the Pair of Hams: Chukchuk
+Trade This for That: Sunflower Seed
+Cheer Up the Crying Ham: Sunflower Seed
+Seed on the Hospital: Acorn
+Speak with the Golf Ham: Sunflower Seed
+Seed on the Golf Flag: Rock
+Seed at the Crow's Pad: Star
+Slip of the Banana Peel: Strawberry
+Sniff the Olive Oil Ham: Hamchu
+Seed Behind the Umbrella: Smidgie
+Buy the Flugo+: This
+Star at the Crow's Pad: Hamspar
+Rock Under the Bench: 3 Sunflower Seeds
+Acorn Behind the Bench: Rock
+Talk to Sandy on the Bench: Tricket
+Catch Stan: Tootru
+Bring Sandy Home: Sandy
+Bring Stan Home: Stan
+Compliment the Big Ham: Nopookie
+Star Under the Bench: Rock
+Talk to the Tutorial Ham at the Market: Shockie
+Rock out Front: 3 Sunflower Seeds
+Seed out Front: 20 Sunflower Seeds
+Rescue the Stuck Ham: Bestest
+Gift from the Stuck Ham: Rock
+Commit Mail Fraud: Bag
+Visit the Cold Ham: Hotchu
+Rock in the Freezer: Herk-Q
+Talk to Dexter: Star
+Rock in the Soda Can: Heat Patch
+Play with the Mimic Ham: Rock
+Seed Upper Left: Frost-T
+Rock Above the Strawberries: Bottle - Fixed
+Seed Above the Strawberries: Smoochie
+Become a Strawberry Soccer Champion: Rock
+Seed on the Cookie Shelf: Wishie
+Acorn on the Cookie Box: Rock
+Assist the Cookie Ham: Rock
+Feed the Hungry Ham: 5 Sunflower Seeds
+Talk to Howdy: 5 Sunflower Seeds
+Find the Bag: Scarf
+Deliver the Bag: Scoochie
+Reward for Delivering Bag: Hammo
+Buy the Heat Patch: 3 Sunflower Seeds
+Buy the Sticker: Flyer
+Buy the Flugo: 5 Sunflower Seeds
+Deliver the Flugo: Rock
+Deliver the Flugo+: That
+Star in the Register: Rock
+Feed the Hungry Ham Again: Blanko
+Bring Howdy Home: Howdy
+Bring Dexter Home: Dexter
+
+Playthrough:
+
+0: {
+
+}
+1: {
+  Attack the Big Sad Ham: Banana
+  Follow the Pill Bug 1: Pashmina
+  Initial Word 2: Tack-Q
+  Under the Rock: Nopibloo
+}
+2: {
+  Bring Maxwell Home: Maxwell
+  Dance Room Tree Left: Lookie
+  Find the Sand Ham: Goodgo
+  Rock by the Slide: Stickie
+}
+3: {
+  Secret Garden Chest 2: Cappy
+}
+4: {
+  Bring Panda Home: Panda
+  Seed by the Grumpy Ham: Pooie
+  Violate the Shy Ham's Privacy: Tuggie
+}
+5: {
+  Bring Dexter Home: Dexter
+  Bring Howdy Home: Howdy
+  Commit Mail Fraud: Bag
+  Rescue the Stuck Ham: Bestest
+  Rock Above the Strawberries: Bottle - Fixed
+  Seed Above the Strawberries: Smoochie
+  Seed on the Cookie Shelf: Wishie
+}
+6: {
+  Deliver the Bag: Scoochie
+  Reward for Delivering Bag: Hammo
+}
+7: {
+  Get the Lunch: Shiny Rock
+  Prove Your Friendship with Penelope: Koochi-Q
+  Rock on the Sidewalk: Penelope
+  Talk to the Pair of Hams: Chukchuk
+}
+8: {
+  Bring Oxnard Home: Oxnard
+  Earn the Frog Badge: Gasp-P
+  Elevator Seed 2: Oopsie
+  Get Cucumber from Tricket Ham: Hamteam
+}
+9: {
+  Bring Bijou Home: Bijou
+  Find the Bag: Scarf
+}
+10: {
+  Bring Pashmina Home: Hamtast
+  Return Pashmina's Scarf: Huffpuff
+}
+11: {
+  Bring Sandy Home: Sandy
+  Bring Stan Home: Stan
+  Obtain the Flower Tea: Flower Tea
+}
+12: {
+  Bring Jingle Home: Jingle
+}
+13: {
+  Bring All the Ham Hams Home: __Victory__
+}
