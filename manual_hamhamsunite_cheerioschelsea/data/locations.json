@@ -268,8 +268,8 @@
 		{"name": "Reward for Delivering Bag", "category": ["Sunflower Market","Item"], "region": "Howdy and Dexter Plot", "requires": "|Bag| AND |Hamha|"},
 		{"name": "Buy the Heat Patch", "category": ["Sunflower Market","Item"], "region": "Howdy and Dexter Plot", "requires": "|News Flash| AND |Yep-P|"},
 		{"name": "Buy the Sticker", "category": ["Sunflower Market","Item"], "region": "Howdy and Dexter Plot", "requires": "|News Flash| AND |Yep-P|"},
-		{"name": "Bring Howdy Home", "category": ["Sunflower Market","Event"], "region": "Howdy and Dexter Plot", "place_item": ["Howdy"], "requires": "|News Flash| AND |Heat Patch| OR |Sticker|"},
-		{"name": "Bring Dexter Home", "category": ["Sunflower Market","Event"], "region": "Howdy and Dexter Plot", "place_item": ["Dexter"], "requires": "|News Flash|AND |Heat Patch| OR |Sticker|"},
+		{"name": "Bring Howdy Home", "category": ["Sunflower Market","Event"], "region": "Howdy and Dexter Plot", "place_item": ["Howdy"], "requires": "|News Flash| AND (|Heat Patch| OR |Sticker|)"},
+		{"name": "Bring Dexter Home", "category": ["Sunflower Market","Event"], "region": "Howdy and Dexter Plot", "place_item": ["Dexter"], "requires": "|News Flash| AND (|Heat Patch| OR |Sticker|)"},
 
 		{"name": "Talk to Snoozer", "category": ["Clubhouse","Ham-Chat","Postgame"], "region": "Clubhouse", "requires": "|@HamHam:12| AND |Zuzuzu|"},
 		{"name": "Learn All the Ham-Chat", "category": ["Clubhouse","Ham-Chat","Postgame"], "region": "Clubhouse", "requires": "|@HamHam:12| AND |@Ham-Chat:85| AND |Hamtast|"},
