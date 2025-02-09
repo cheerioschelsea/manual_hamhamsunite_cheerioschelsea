@@ -224,7 +224,7 @@
 		{"name": "Sniff the Olive Oil Ham", "category": ["6 Sky Garden","Ham-Chat Loc"], "region": "Sky Garden Roof", "requires": "|Hif-hif|"},
 		{"name": "Seed Behind the Umbrella", "category": ["6 Sky Garden","Seed Loc"], "region": "Sky Garden Roof", "requires": "|Hif-hif|"},
 		{"name": "Compliment the Big Ham", "category": ["6 Sky Garden","Ham-Chat Loc"], "region": "Sky Garden Island", "requires": "|Hamha| AND |Tack-Q| AND |Hif-hif| AND |Digdig| AND |Spiffie|"},
-		{"name": "Buy the Flugo+", "category": ["6 Sky Garden","Item Loc"], "region": "Sky Garden Roof", "requires": "|Flugo| AND |Yep-P|"},
+		{"name": "Buy the Flugo+", "category": ["6 Sky Garden","Item Loc"], "region": "Sky Garden Roof", "requires": "|Doctor| AND |Flugo| AND |Yep-P|"},
 
 		{"name": "Rock Under the Bench", "category": ["6 Sky Garden","Rock Loc"], "region": "Sky Garden Island", "requires": "|Digdig|"},
 		{"name": "Acorn Behind the Bench", "category": ["6 Sky Garden","Seed Loc"], "region": "Sky Garden Island", "requires": "|Hif-hif|"},
