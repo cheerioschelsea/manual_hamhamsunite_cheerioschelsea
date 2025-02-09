@@ -135,18 +135,21 @@
 		{"name": "Heavy Rock", "category": ["Rock"], "progression": true},
 		{"name": "Rock", "category": ["Rock"], "count": 29, "progression": true},
 
-		{"name": "10 Sunflower Seeds", "category": ["Seed"], "count": 2, "useful": true},
-		{"name": "20 Sunflower Seeds", "category": ["Seed"], "count": 1, "useful": true},
-		{"name": "5 Sunflower Seeds", "category": ["Seed"], "count": 10, "useful": true},
+		{"name": "20 Sunflower Seeds", "category": ["Seed"], "count": 11, "value": {"sunflower_seeds": 20}, "progression_skip_balancing": true},
+		{"name": "10 Sunflower Seeds", "category": ["Seed"], "count": 2, "value": {"sunflower_seeds": 10}, "progression_skip_balancing": true},
+		{"name": "5 Sunflower Seeds", "category": ["Seed"], "count": 10, "value": {"sunflower_seeds": 5}, "progression_skip_balancing": true},
+		{"name": "Sunflower Seed", "category": ["Seed"], "count": 10, "value": {"sunflower_seeds": 1}, "progression_skip_balancing": true},
 		{"name": "Acorn", "category": ["Seed"], "count": 10, "progression_skip_balancing": true},
-		{"name": "Sunflower Seed", "category": ["Seed"], "count": 10, "useful": true},
 
-		{"name": "Bolero", "category": ["Song"], "normal": true},
-		{"name": "G Rock", "category": ["Song"], "normal": true},
+		{"name": "Chick-ah Jam", "category": ["Song"], "normal": true},
+		{"name": "Sunflower", "category": ["Song"], "normal": true},
 		{"name": "Hamtaro Time", "category": ["Song"], "normal": true},
-		{"name": "Little Star", "category": ["Song"], "normal": true},
+		{"name": "Bolero", "category": ["Song"], "normal": true},
 		{"name": "Postman's Rush", "category": ["Song"], "normal": true},
-		{"name": "Young 'n Wild", "category": ["Song"], "normal": true},
+		{"name": "G Rock", "category": ["Song"], "normal": true},
+		{"name": "Young'n Wild!", "category": ["Song"], "normal": true},
+		{"name": "I'm Your Ham", "category": ["Song"], "normal": true},
+		{"name": "Little Star", "category": ["Song"], "normal": true},
 		
 		{"name": "Star", "category": ["Star"], "count": 12, "progression": true}
 	  ]
